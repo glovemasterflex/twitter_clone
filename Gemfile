@@ -55,7 +55,7 @@ end
 
 group :production do
   gem 'puma'
-  gem 'rails_12factor'
+  gem 'rails_12gtfactor'
 end
 
 group :development do
